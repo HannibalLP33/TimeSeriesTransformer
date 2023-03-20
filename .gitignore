@@ -7,3 +7,4 @@ training_data/01Jan2020.csv
 training_data/01Jan2021.csv
 training_data/01Jan2022.csv
 training_data/Attempt1.csv
+*.csv
